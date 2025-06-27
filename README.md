@@ -1,16 +1,16 @@
 # Exploratory-Data-Analysis
 
-Project Overview
+Project Overview:
 
 This project involves performing an exploratory data analysis (EDA) on Diwali sales data. The goal is to uncover insights, patterns, and trends in sales data during the Diwali festival period, using various data visualization and statistical techniques.
 
-Data Source
+Data Source:
 
 1.Mention where you sourced the Diwali sales data (e.g., CSV, Kaggle, company data, etc.).
 
 2.Briefly describe the dataset's attributes (e.g., sales data, product categories, time, region, etc.).
 
-Objectives
+Objectives:
 
 1.To analyze Diwali sales performance and trends over time.
 
@@ -20,7 +20,7 @@ Objectives
 
 4.To uncover any geographical or temporal insights.
 
-Tools and Technologies
+Tools and Technologies:
 
 1.Python
 
@@ -29,7 +29,7 @@ Tools and Technologies
 3.Jupyter Notebook or similar IDE for analysis and visualizations.
 
 
-Key Steps/Process
+Key Steps/Process:
 
 
 1.Data Collection: Explain how data was collected and cleaned.
