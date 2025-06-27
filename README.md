@@ -1,6 +1,7 @@
 # Exploratory-Data-Analysis
 
 Project Overview
+
 This project involves performing an exploratory data analysis (EDA) on Diwali sales data. The goal is to uncover insights, patterns, and trends in sales data during the Diwali festival period, using various data visualization and statistical techniques.
 
 Data Source
